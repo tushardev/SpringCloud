@@ -25,4 +25,6 @@
    localhost:8080/actuator/refresh
    
    Once refresh end point is hit - latest properties will be available to client without restart.
+   
+4. Local property files are also added. Spring propery is set to native for local property files.
 	
